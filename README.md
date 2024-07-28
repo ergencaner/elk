@@ -58,4 +58,5 @@ logstash-%{springAppName}-%{host}-%{+YYYY.MM.dd}
 
 ## License
 
+Distributed under the MIT License. See LICENSE.txt for more information.
 [MIT](https://choosealicense.com/licenses/mit/)
