@@ -17,7 +17,7 @@ docker compose up -d
 ## Usage/Examples
 
 
-* Logs will be created with index pattern 
+* Logs will be created with below index pattern 
 ```javascript
 logstash-%{springAppName}-%{host}-%{+YYYY.MM.dd}
 ```
