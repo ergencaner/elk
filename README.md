@@ -22,6 +22,7 @@ docker compose up -d
 logstash-%{springAppName}-%{host}-%{+YYYY.MM.dd}
 ```
 * Logstash is configured to listen to inputs on port **5044**
+* Kibana is configured to run on port **5601**
 
 ### Sample logback-spring.xml to use with Spring Boot
 
